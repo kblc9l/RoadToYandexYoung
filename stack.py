@@ -18,3 +18,5 @@ class Stack:
 st = Stack()
 st.push(1)
 print(st.peek())
+
+
